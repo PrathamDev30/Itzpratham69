@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @prathmesh
-- <br>
+- 👋 Hi, I’m @prathmesh <br>
  MERN STACK DEVELOPER 
 
 <!---
